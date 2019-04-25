@@ -4,7 +4,12 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: `/logo.png` }]
   ],
+  markdown: {
+    lineNumbers: true
+  },
   themeConfig: {
+    repo: 'visonlee/vuepress-blog',
+    editLinks: true,
     sidebar: 'auto',
     nav: [
       { text: '首页', link: '/' },
