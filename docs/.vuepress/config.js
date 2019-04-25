@@ -1,24 +1,17 @@
 module.exports = {
-  title: '首页',
-  description: '深仔的博客',
+  title: '深仔的博客',
+  description: '记录技术成长',
+  head: [
+    ['link', { rel: 'icon', href: `/logo.png` }]
+  ],
   themeConfig: {
-    lastUpdated: 'Last Updated', // string | boolean
-    sidebar: [
-      '/',
-      '/java/',
-      ['/cs/', '计算机基础']
-    ],
+    sidebar: 'auto',
     nav: [
       { text: '首页', link: '/' },
-      {
-        text: '博文',
-        items: [
-          { text: 'java', link: '/java/' },
-          { text: '前端', link: '/front/' },
-          { text: '基础', link: '/cs/' }
-        ]
-      },
-      { text: '归档', link: '/archive/' },
+      { text: 'java', link: '/java/' },
+      { text: '前端', link: '/front/' },
+      { text: '计算机知识', link: '/cs/' },
+      { text: '其他', link: '/other/' },
       { text: '关于', link: '/about/' },
       { text: 'Github', link: 'https://github.com/visonlee' },
     ]
