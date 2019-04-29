@@ -60,5 +60,6 @@ public static void main(String[] args) {
 * ScheduledThreadPoolExecutor与Timer有什么区别,为什么推荐使用前者,前者有什么优点
 
 * 数据库事务的四大特性以及事务的隔离级别的理解,以及它在JDBC中的配置
-* PBKDF2WithHmacSHA1是什么来算法来的
-* 为什么阿里巴巴禁止把SimpleDateFormat定义为static类型的,以及为什么不是线程安全的?
+* `PBKDF2WithHmacSHA1`是什么来算法来的
+* 为什么阿里巴巴禁止把`SimpleDateFormat`定义为`static`类型的,以及为什么不是线程安全的?
+* `BufferedInputStream`原理以及为什buffer size的为什么跟`block size`相关
