@@ -5,3 +5,4 @@
 * [java学习过程中遇到的问题](./java-puzzle.md)
 * [IntegerCache解剖](./integer-cache.md)
 * [IDEA笔记](./IDEA-notes.md)
+* [spring boot & Mybatis多数据源配置](./spring-boot-multi-datasource.md)
