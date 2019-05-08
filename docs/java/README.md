@@ -6,3 +6,4 @@
 * [IntegerCache解剖](./integer-cache.md)
 * [IDEA笔记](./IDEA-notes.md)
 * [spring boot & Mybatis多数据源配置](./spring-boot-multi-datasource.md)
+* [java升级打怪阅读书单](./java-books.md)
