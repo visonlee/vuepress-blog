@@ -64,3 +64,19 @@ public static void main(String[] args) {
 * 为什么阿里巴巴禁止把`SimpleDateFormat`定义为`static`类型的,以及为什么不是线程安全的?
 * `BufferedInputStream`原理以及为什buffer size的为什么跟`block size`相关
 
+* 为什么声明式事务内部调用,方法不生效,如:
+```java
+    @Override
+    @Transactional(rollbackFor = RollbackException.class)
+    public void insertThenRollback() throws RollbackException {
+        jdbcTemplate.execute("INSERT INTO FOO (BAR) VALUES ('BBB')");
+        throw new RollbackException();
+    }
+
+    @Override
+    public void invokeInsertThenRollback() throws RollbackException {
+        insertThenRollback(); //调用该行代码不生效
+        // ((FooService)AopContext.currentProxy()).insertThenRollback(); //该方法生效 
+        // 或者在不用直接调用,这样也生效,在类中 @Autowired 自己, 通过自己的实例,xxx.insertThenRollback()
+    }
+```

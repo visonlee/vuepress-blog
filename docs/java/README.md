@@ -7,3 +7,5 @@
 * [IDEA笔记](./IDEA-notes.md)
 * [spring boot & Mybatis多数据源配置](./spring-boot-multi-datasource.md)
 * [java升级打怪阅读书单](./java-books.md)
+* [java模拟简单的数据库连接池](./java-connectionPool.md)
+* [java实现简单的线程池](./java-threadPool.md)
