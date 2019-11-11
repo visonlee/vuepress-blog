@@ -4,7 +4,7 @@
 ## 联系方式
 
 - 手机：18825146399
-- Email：lee20081227@hotmail.com
+- Email：wenshen.123@qq.com
 - 微信号：visonleecoder
 
 ---
@@ -49,7 +49,7 @@
 
 ## 技能清单
 - 扎实的计算机专业基础知识掌握比较扎实, 对数据结构算法, 计算机原理, 操作系统, 计算机网络等有一定认识,并且懂得与实际运用中结合
-- 熟悉J2EE主流核心技术, Java基础扎实, 熟悉J2EE规范及常用设计模式, 具有良好的编码习惯, 了解JVM, 对微服务架构有一点认识
+- 熟悉J2EE主流核心技术, Java基础扎实, 熟悉J2EE规范及常用设计模式, 具有良好的编码习惯, 了解JVM, 对微服务架构有一定认识
 - 熟悉Spring, Spring MVC, Spring Boot, Spring Security, Spring Cloud, MyBatis, 并且有需要地阅读其中的部分源码
 - 熟悉了解MySQL, Linux, Shell, IDEA, Maven, Git等
 - 熟悉HTML, JavaScript, CSS, ES6, Ajax, 熟悉使用npm, Webpack, Vue.js, Element UI等
