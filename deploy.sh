@@ -23,3 +23,8 @@ git push -f git@github.com:visonlee/visonlee.github.io.git master
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 
 cd -
+
+#提交原始文章
+git add .
+git commit -m "commit post"
+git push
