@@ -13,7 +13,7 @@
  - 工作年限：7年
  - github博客：[https://github.com/visonlee/cs-notes](https://github.com/visonlee/cs-notes) 
  - 期望职位：Java(全栈)开发工程师
- - 期望薪资：35-45k
+ - 期望月薪：30-40K
 
 
 ## 教育背景
