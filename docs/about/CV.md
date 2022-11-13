@@ -13,7 +13,6 @@
  - 工作年限：7年
  - github博客：[https://github.com/visonlee/cs-notes](https://github.com/visonlee/cs-notes) 
  - 期望职位：Java(全栈)开发工程师
- - 期望月薪：30-40k
 
 
 ## 教育背景
@@ -25,7 +24,6 @@
 
 ## 技能清单
 - 扎实的计算机理论, 深刻理解操作系统、计算机组成原理、C语言、汇编等,了解C++, 熟悉常见的命令及工具, 如gcc,make,gdb,vim,qemu等
-- 毕业前几年做iOS开发, 即使很久没做这块,但iOS技术依然深刻记得
 - Java基础扎实,熟悉Java生态以及常用设计模式,熟练常见的数据结构与算法, 具有良好的编码习惯
 - 熟悉并发及原理, 熟悉JVM原理及掌握常见的调优和排查技巧
 - 熟悉Spring, Spring MVC, Spring Boot, Spring Security, Spring Cloud等框架和技术,熟悉微服务架构设计
@@ -34,13 +32,14 @@
 - 熟悉DevOps,CI/CD,Jenkins,Git,Maven,Linxu系统,Unix哲学
 - 熟悉Docker,K8s等云原生技术栈
 - 熟悉云技术,如AWS常见服务, 如EC2,S3,RDS,SQS,Lambda,CloudWatch,ElastiCache,Route 53
+- 刚毕业时做iOS开发, 熟悉手机端开发
 - 了解前端技术, 会使用npm, Webpack, VueJs,ReactJs等
 - 熟悉常见的测试与理论, 如性能测试的ab，Jmeter,自动化测试Selenium
 - 熟悉敏捷开发模式与工具, 如Jira,Confluence等
 - 对网络安全有一定的认识, 了解常见的安全问题和防范策略
-- 了解其他语言如python,Groovy等
+- 了解其他语言如Python,Groovy等
 - 英文水平良好, 听说读写均可达到日常水平
-- 持续学习并善于总结,并维护自己[开源笔记](https://github.com/visonlee/cs-notes),也录制技术视频放在[B站](https://space.bilibili.com/163808780/)
+- 每天保持学习技术,并维护自己[开源笔记](https://github.com/visonlee/cs-notes),也录制技术视频放在[B站](https://space.bilibili.com/163808780/)
 
 ---
 

@@ -13,7 +13,6 @@
  - Working years: 7 years
  - github blog: [https://github.com/visonlee/cs-notes](https://github.com/visonlee/cs-notes)
  - Desired position: Java software engineer
- - Expected salary: 30-40k/Month
 
 ## Education background
 
@@ -25,7 +24,6 @@
 ## Skill set
 
 - strong computer theory, deep understanding of operating system, computer architect, C language, assembly, etc.familiar with Liux commands and tools, such as `gcc`, `make`, `gdb,` `vim`, `qemu`, etc.
-- workded as `iOS developer` a few years ago, I still do remember the iOS core skill sets Even if I haven't work on it for a long time
 - solid Java foundation, Java eco-systems and design patterns, master the common data structures and algorithms, and have good coding style
 - deep understand with `concurrency` and `JVM` theory,and master common `performance tuning` and `troubleshooting` skills
 - hands-on frameworks, such as `Spring`, `Spring MVC`, `Spring Boot`, `Spring Security`, `Spring Cloud`, etc.and `microservice architecture` design ppatterns
@@ -34,6 +32,7 @@
 - hands-on `DevOps`, `CI/CD`, `Jenkins`, `Git`, `Maven`, `Linxu system`, `Unix philosophy`
 - hands-on `cloud native` technology stacks, such as `Docker` and `K8s`
 - hands-on with cloud technologies, such as `AWS`, such as `EC2`, `S3`, `RDS`, `SQS`, `Lambda`, `CloudWatch`, `ElastiCache`, `Route 53`
+- familiar with `iOS` mobile development
 - understand front-end technology, use `npm`, `Webpack`, `VueJs`, `ReactJs`, etc.
 - familiar with common tests and theories, such as performance testing `ab`, `Jmeter`, automated testing `Selenium`
 - hands-on with agile pattern and tools, such as `Jira`, `Confluence`, etc.
